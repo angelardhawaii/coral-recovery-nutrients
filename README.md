@@ -2,7 +2,7 @@
 
 Analysis scripts accompanying the publication:
 
-> **Nutrient enrichment enhances post-bleaching survival with asynchronous symbiont recovery**
+> **Nitrogen enrichment enhances post-bleaching survival with asynchronous symbiont recovery**
 — Ji Hoon Han, Angela Richards Donà, Claire Lewis, Rob Toonan, Celia Smith —
 *Proceedings of the Royal Society B*
 2026. DOI: [DOI]
